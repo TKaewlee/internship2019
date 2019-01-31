@@ -36,7 +36,7 @@ hangman = ["     \n     \n     \n     \n     \n     \n____|\n",
 
 
 ## Name Input
-print('Please put Your name: ')
+print('Please put your name: ')
 name = input()
 print('Hello, ' + name)
 status = 'play'
