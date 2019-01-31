@@ -5,6 +5,6 @@ e-mail thitikorn.kae@gmail.com
 วิธีการ compile/build/run โปรแกรม  
 0. ติดตั้ง Python3 ผ่าน anaconda  
 1. เปิด cmd  
-2. รัน python hangman.py  
-3. เริ่มเล่นเกม
-4. เช็คผลการเล่นที่ไฟล์ hangman.csv ในโฟลเดอร์ Logs 
+2. รัน python weather.py  
+3. ใส่ชื่อไฟล์ (ไม่ต้องใส่ .xml)
+4. ได้ไฟล์ .json ที่มีชื่อไฟล์เดียวกัน
